@@ -20,7 +20,7 @@
 
 
 
-### Socials and contacts:
+### Socials and Сontacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/e_KeY)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/_.lekey._/profilecard/?igsh=M3gwazFsbnl1MmZo)
